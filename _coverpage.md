@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://ailore-1251230017.cos.ap-guangzhou.myqcloud.com/%E5%9B%BE%E5%BA%93/news/download.png)
+![logo](https://ailore-1251230017.cos.ap-guangzhou.myqcloud.com/%E5%9B%BE%E5%BA%93/news/logo%20%281%29.pnghttps://ailore-1251230017.cos.ap-guangzhou.myqcloud.com/%E5%9B%BE%E5%BA%93/news/download.png)
 
 # docsify <small>3.5</small>
 
