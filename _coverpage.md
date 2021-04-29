@@ -2,7 +2,7 @@
 
 <img src="https://ailore-1251230017.cos.ap-guangzhou.myqcloud.com/%E5%9B%BE%E5%BA%93/news/logo%20%281%29.png" alt="logo" style="zoom:33%;" />
 
-# docsify <small>3.5</small>
+# ChinaMap <small>1.0</small>
 
 > 一个神奇的文档网站生成器。
 
