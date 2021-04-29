@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-<img src="https://ailore-1251230017.cos.ap-guangzhou.myqcloud.com/%E5%9B%BE%E5%BA%93/news/logo%20%281%29.png" alt="logo" style="zoom:33%;" />
+<img src="https://ailore-1251230017.cos.ap-guangzhou.myqcloud.com/%E5%9B%BE%E5%BA%93/%E9%A6%96%E5%9B%BE.jpg" alt="logo" style="height: 300px" />
 
 # ChinaMap <small>1.0</small>
 
