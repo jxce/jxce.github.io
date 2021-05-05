@@ -1,4 +1,3 @@
 * [首页](/)
 
-* [一级标题](readme)
-	* [二级标题](page)
+* [ChinaMap](https://chinamap.org)

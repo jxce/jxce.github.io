@@ -1,14 +1,9 @@
 <!-- _coverpage.md -->
 
-<img src="https://ailore-1251230017.cos.ap-guangzhou.myqcloud.com/%E5%9B%BE%E5%BA%93/%E9%A6%96%E5%9B%BE.jpg" alt="logo" style="height: 300px" />
+<img src="https://ailore-1251230017.cos.ap-guangzhou.myqcloud.com/%E5%9B%BE%E5%BA%93/cars/%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE.png" alt="logo" style="height: 200px" />
 
-# 工作日记 <small>1.0</small>
+# 智造未来 <small>1.0</small>
 
-> 一个神奇的文档网站生成器。
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
-
-[GitHub](https://github.com/jxce/jxce.github.io)
-[Get Started](#Headline)
+[ChinaMap](https://chinamap.org)
+[芝麻开门](#前言)
